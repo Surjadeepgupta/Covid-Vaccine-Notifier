@@ -1,0 +1,13 @@
+The Covid Vaccine Notifier is developed with Python language and using Co-Win API setu. The Open API helps in sync the database of the Co-Win portal with the custom-designed application. The application is designed on the basis of the district and future date reference and by age, if the Vaccine is available. It will be notified by the app according to the availability of the dosage and it will show the name of the availability centers.
+
+It will make easier to get Vaccinated .
+==============================================================================
+Requirements:
+
+1.VS Code or Python IDLE 3.9
+2.Install Python From VS Code Extension
+3.Install the Package requests ( PIP Install Requests )
+4.Install the second Package Playsound (For Alert) (PIP Install Playsound)
+5.Integration of Co-Win API setu For Realtime Data.
+
+Developed by Surjadeep
